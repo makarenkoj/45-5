@@ -1,33 +1,17 @@
 body {
-  background-color: cyan;
+  background-color: #fffde6;
   margin-left: 20px;
   margin-right: 20px;
 }
 
-
-.image_right {
-  width: 45%;
-  height: 40%;
-  float: right;
-  margin: 0 5px 0 15px;
-  border: 3px solid #000507;
-}
-
-.image_left {
-  width: 45%;
-  height: 40%;
-  float: left;
-  margin: 0 15px 0 5px;
-  border: 3px solid #000507;
-}
-
-h1 {
+.header {
+  padding: 10px;
   text-align: center;
 }
 
-.text {
-  font-family: Trebuchet MS, sans-serif;
-  font-size: 1.6rem;
-  text-align: justify;
-  text-indent: 20px;
+.footer {
+  position: relative;
+  margin-top: -150px;
+  height: 150px;
+  clear: both;
 }
