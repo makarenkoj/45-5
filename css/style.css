@@ -1,19 +1,17 @@
 body {
-  background-color: #e2dacf;
+  background-color: #fffde6;
   margin-left: 20px;
   margin-right: 20px;
-  margin-top: 150px;
-  display: table;
-  height: 100%;
+}
+
+.header {
+  padding: 10px;
+  text-align: center;
 }
 
 .footer {
   position: relative;
-  margin-top: -150px; /* отрицательное значение высоты футера */
+  margin-top: -150px;
   height: 150px;
-  clear:both;
-}
-
-.header, .footer {
-  padding: 2em;
+  clear: both;
 }
