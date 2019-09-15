@@ -6,7 +6,7 @@
 .column_40 {
   width: 39%;
   float: right;
-  border-left: 3px solid #ccc; /* Параметры линии */
-  margin-left: 3px; /* Отступ слева */
-  padding-left: 6px; /* Расстояние от линии до текста */
+  border-left: 3px solid #ccc;
+  margin-left: 3px;
+  padding-left: 6px;
 }
